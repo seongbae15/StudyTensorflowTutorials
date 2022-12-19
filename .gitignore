@@ -175,3 +175,4 @@ cython_debug/
 # Custom
 # Model Weight
 *.h5
+train_result/*
